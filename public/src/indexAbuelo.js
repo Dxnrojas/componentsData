@@ -21,6 +21,7 @@ class AppContainer extends HTMLElement{
             image="${element.image}">
             </character-card>
             <counter-button></counter-button> 
+            <message-button></message-button>
             `
         });
 
